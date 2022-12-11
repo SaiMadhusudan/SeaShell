@@ -1,0 +1,21 @@
+20
+ls | wc > x.txt
+clear
+ls
+cd ..
+cd 
+clear
+pwd
+cat x.txt
+clear
+sleep 5 &
+clear
+jobs
+clear
+sleep 5 &
+clear
+sleep 100
+jobs
+sleep 100 
+jobs
+fg 1
